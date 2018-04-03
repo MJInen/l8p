@@ -8,5 +8,6 @@ dependencies:
 - numpy==1.14.2
 - jupyter==1.0
 - matplotlib==2.2.2
+- fiona==1.7.10
 - pip:
   - rasterio==1.0a12
